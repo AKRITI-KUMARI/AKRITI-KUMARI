@@ -15,14 +15,6 @@ I’m a final-year B.Tech student in CSE-AIML at Techno India University with a 
 
 ---
 
-### 🔭 Currently Building
-- 🛒 **Pure Flavour**: A responsive e-commerce site for my ESD project  
-- 📚 **Quiz Campus**: A full-stack web project for interactive learning  
-- 🖼️ **Portfolio Site**: A personal showcase inspired by top developers  
-- 📊 **AI Project**: A full-stack data science application with real-world relevance
-
----
-
 ### 🌱 Currently Exploring
 - Full-stack development with the MERN stack  
 - AI integrations into frontend experiences  
@@ -35,8 +27,8 @@ I’m a final-year B.Tech student in CSE-AIML at Techno India University with a 
 | Domain        | Technologies                                              |
 |---------------|-----------------------------------------------------------|
 | **Languages** | C, C++, Java, Python                                      |
-| **Web Dev**   | HTML, CSS, JavaScript, Node.js, Express.js                |
+| **Web Dev**   | HTML, CSS, JavaScript, Node.js, Express.js, Flask         |
 | **Databases** | MySQL, MongoDB, SQL Server                                |
-| **IoT & Embedded** | ESP32, Current Sensor, Voltage Sensor               |
-| **Tools**     | Git, GitHub, VS Code, Postman, Jupyter Notebook           |
+| **IoT & Embedded** | ESP32, Current Sensor, Voltage Sensor                |
+| **Tools**     | Git, GitHub, MongoDB Compass, Postman, Jupyter Notebook   |
 
