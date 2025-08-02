@@ -8,7 +8,7 @@ I’m a final-year B.Tech student in CSE-AIML at Techno India University with a 
 
 ### 💡 What I'm All About
 
-- 🔧 Skilled in **C, C++, Java, Python, HTML, CSS, JavaScript, MySQL, MongoDB, Node.js, Express.js**, and modern web tech  
+- 🔧 Skilled in **C, C++, Java, Python, HTML, CSS, JavaScript, MySQL**, and modern web technologies  
 - 🧩 Passionate about **problem-solving**, with 600+ DSA problems cracked on *LeetCode*  
 - 🧠 Exploring **AI-enhanced full-stack development** and cost-effective deployment strategies  
 - 💬 Clear and concise communicator, persistent debugger — I never give up on my code
