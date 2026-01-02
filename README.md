@@ -27,8 +27,8 @@ I’m a final-year B.Tech student in CSE-AIML at Techno India University with a 
 | Domain        | Technologies                                              |
 |---------------|-----------------------------------------------------------|
 | **Languages** | C, C++, Java, Python                                      |
-| **Web Dev**   | HTML, CSS, JavaScript, Node.js, Express.js, Flask         |
+| **Web Dev**   | HTML, CSS, JavaScript, Flask                              |
 | **Databases** | MySQL, MongoDB, SQL Server                                |
 | **IoT & Embedded** | ESP32, Current Sensor, Voltage Sensor                |
-| **Tools**     | Git, GitHub, MongoDB Compass, Postman, Jupyter Notebook   |
+| **Tools**     | Git, GitHub, Postman, Jupyter Notebook                    |
 
