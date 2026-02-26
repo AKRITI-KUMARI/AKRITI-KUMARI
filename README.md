@@ -30,6 +30,6 @@ I’m a final-year B.Tech student in CSE-AIML at Techno India University, passio
 | **Languages** | C, C++, Java, Python                                      |
 | **Web Dev**   | HTML, CSS, JavaScript, Bootstrap                          |
 | **Databases** | MySQL, SQL Server                                         |
-| **IoT & Embedded** | ESP32, Current Sensor, Voltage Sensor                |
+| **Data Preprocessing & Visualisation** | Numpy, Pandas, Matplotlib        |
 | **Tools**     | Git, GitHub, Jupyter Lab                                  |
 
