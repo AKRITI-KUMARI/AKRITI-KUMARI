@@ -27,8 +27,8 @@ I’m a final-year B.Tech student in CSE-AIML at Techno India University, passio
 
 | Domain        | Technologies                                              |
 |---------------|-----------------------------------------------------------|
-| **Languages** | C, C++, Java, Python                                      |
-| **Web Dev**   | HTML, CSS, JavaScript, Bootstrap                          |
+| **Programming Languages** | C, C++, Java, Python                          |
+| **Web Development**   | HTML, CSS, JavaScript, Bootstrap                  |
 | **Databases** | MySQL, SQL Server                                         |
 | **Data Preprocessing & Visualisation** | Numpy, Pandas, Matplotlib        |
 | **Tools**     | Git, GitHub, Jupyter Lab                                  |
