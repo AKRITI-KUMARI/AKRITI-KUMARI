@@ -2,23 +2,24 @@
 
 **Aspiring Software Developer | Microsoft Certified: Azure AI Fundamentals | Tech Enthusiast**
 
-I’m a final-year B.Tech student in CSE-AIML at Techno India University with a passion for building smart, accessible, and user-centric products. I thrive at the intersection of full-stack development, problem-solving, and emerging technologies.
+I’m a final-year B.Tech student in CSE-AIML at Techno India University, passionate about building intelligent, accessible, and user-focused applications. Currently, I’m expanding my skills in full-stack development and data science while exploring the intersection of AI, cloud technologies, and scalable systems.
 
 ---
 
 ### 💡 What I'm All About
 
-- 🔧 Skilled in **C, C++, Java, Python, HTML, CSS, JavaScript, MySQL**, and modern web technologies  
-- 🧩 Passionate about **problem-solving**, with 600+ DSA problems cracked on *LeetCode*  
-- 🧠 Exploring **AI-enhanced full-stack development** and cost-effective deployment strategies  
-- 💬 Clear and concise communicator, persistent debugger — I never give up on my code
+- 🔧 Proficient in C, C++, Java, Python, HTML, CSS, JavaScript, MySQL, and modern web technologies  
+- 🧩 Passionate about problem-solving, with 800+ DSA challenges solved on LeetCode 
+- 🧠 Focused on AI-driven full-stack development and efficient, cost-effective deployment strategies 
+- 💬 Clear communicator and persistent debugger — I believe every bug has a solution
 
 ---
 
 ### 🌱 Currently Exploring
 - Full-stack development with the MERN stack  
-- AI integrations into frontend experiences  
-- Hosting with GitHub Pages, Render, and Vercel  
+- AI integrations into modern frontend experiences  
+- Deployment & hosting with GitHub Pages, Render, and Vercel
+- Data science - workflows with Numpy, Pandas, Matplotlib and beyond
 
 ---
 
@@ -27,8 +28,8 @@ I’m a final-year B.Tech student in CSE-AIML at Techno India University with a 
 | Domain        | Technologies                                              |
 |---------------|-----------------------------------------------------------|
 | **Languages** | C, C++, Java, Python                                      |
-| **Web Dev**   | HTML, CSS, JavaScript, Flask                              |
-| **Databases** | MySQL, MongoDB, SQL Server                                |
+| **Web Dev**   | HTML, CSS, JavaScript, Bootstrap                          |
+| **Databases** | MySQL, SQL Server                                         |
 | **IoT & Embedded** | ESP32, Current Sensor, Voltage Sensor                |
-| **Tools**     | Git, GitHub, Postman, Jupyter Notebook                    |
+| **Tools**     | Git, GitHub, Jupyter Lab                                  |
 
