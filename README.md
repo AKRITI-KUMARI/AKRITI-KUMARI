@@ -27,12 +27,11 @@ I’m a final-year B.Tech student in CSE-AIML at Techno India University, passio
 
 | Domain        | Technologies                                              |
 |---------------|-----------------------------------------------------------|
-| **Programming Languages** | C, C++, Java, Python, JavaScript              |
-| **Frontend Development**   | HTML, CSS, Bootstrap                         |
-| **Backend Development** | NodeJS, ExpressJS                               |
-| **Databases** | MySQL, MSSQL Server                                       |
+| **Programming Languages** | C, C++, Java, Python                          |
+| **Frontend Development**   | HTML, CSS, JavaScript, React                 |
+| **Backend Development** | NodeJS, ExpressJS, MongoDB, MySQL               |
 | **Data Preprocessing** | Numpy, Pandas                                    |
 | **Data Visualization** | Matplotlib, Seaborn                              |
 | **Machine Learning** | Scikit-Learn                                       |
-| **Tools**     | Git, GitHub, Jupyter Lab, VS Code                         |
+| **Tools** | Git, GitHub, Jupyter Lab, VS Code, Postman                    |
 
